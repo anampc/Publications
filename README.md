@@ -5,6 +5,10 @@ This repository contains PDF versions of some of my publications. Below are the 
 ## Publications
 
 ### 2025
+
+- **[Elevated temperature decreases stony coral tissue loss disease transmission, with little effect of nutrients](https://github.com/anampc/Publications/blob/main/2025_NSR.pdf)**  
+  *Scientific Reports*
+  
 - **[Genotypes of Acropora cervicornis in Florida show resistance to either elevated nutrients or disease, but not both in combination](https://github.com/anampc/Publications/blob/main/2025_pone.pdf)**  
   *PLOS One*
 
